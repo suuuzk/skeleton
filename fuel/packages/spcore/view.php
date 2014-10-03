@@ -31,6 +31,7 @@ class View extends Fuel\Core\View
 	 */
 	public static function debug()
 	{
+		//debug
 		var_dump('in spcore');
 	}
 }
